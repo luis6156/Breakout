@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Breakout", "Breakout.vcxproj", "{B1604994-AAF7-4817-B7F8-5D73929A07A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Breakout Installer", "..\Breakout Installer\Breakout Installer\Breakout Installer.vdproj", "{40AC79C1-7C59-4B6E-A422-2D64DDA20861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Debug|x64.ActiveCfg = Debug|x64
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Debug|x64.Build.0 = Debug|x64
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Debug|x86.Build.0 = Debug|Win32
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Release|x64.ActiveCfg = Release|x64
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Release|x64.Build.0 = Release|x64
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Release|x86.ActiveCfg = Release|Win32
+		{B1604994-AAF7-4817-B7F8-5D73929A07A2}.Release|x86.Build.0 = Release|Win32
+		{40AC79C1-7C59-4B6E-A422-2D64DDA20861}.Debug|x64.ActiveCfg = Debug
+		{40AC79C1-7C59-4B6E-A422-2D64DDA20861}.Debug|x86.ActiveCfg = Debug
+		{40AC79C1-7C59-4B6E-A422-2D64DDA20861}.Release|x64.ActiveCfg = Release
+		{40AC79C1-7C59-4B6E-A422-2D64DDA20861}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA9BB26-E2FE-4F0E-8E80-FA146DE5039D}
+	EndGlobalSection
+EndGlobal

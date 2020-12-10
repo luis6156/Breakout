@@ -1,0 +1,20 @@
+﻿  glad.c
+  stb_image.cpp
+  ball_object.cpp
+  game.cpp
+  game_level.cpp
+  game_object.cpp
+  particle_generator.cpp
+  program.cpp
+  resource_manager.cpp
+  shader.cpp
+  post_processor.cpp
+  sprite_renderer.cpp
+  texture.cpp
+  text_renderer.cpp
+C:\Users\micul\Desktop\Demos\Breakout\text_renderer.cpp(80,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1228 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Breakout.vcxproj -> C:\Users\micul\Desktop\Demos\Breakout\x64\Release\Breakout.exe

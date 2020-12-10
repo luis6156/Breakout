@@ -1,0 +1,2 @@
+C:\Users\micul\Desktop\Demos\Breakout\x64\Debug\Breakout.exe
+C:\Users\micul\Desktop\Demos\Breakout\x64\Debug\Breakout.pdb
