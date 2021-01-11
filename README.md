@@ -4,9 +4,12 @@ Breakout Clone
 
 Made using C++ and OpenGL.
 
-Tutorial provided by learnopengl.com
+Tutorial provided by the author Joey DeVries of the site learnopengl.com under the CC BY-NC 4.0 license. 
+Implementation and changes to the code made by Micu Florian-Luis.
 
-Implementation and changes to the game made by Micu Florian-Luis.
+This game was made in order to familiarize myself with the 3D concepts
+of computer programming. In the near future, I will add more features
+and optimizations to better increase my understanding.
 
 Installation & Uninstall:
 To install the game use the installer provided in:
@@ -79,4 +82,6 @@ block, 2-5 different color blocks). The matrix can be any size, it is scalled
 to fit on the width of the screen and half the height of it, thus if you have
 more elements the blocks will shrink to fit.
 
-HAVE FUN AND THANK YOU FOR PLAYING!!!
+TO DO:
+1. Add multithread
+2. Group sprites for collision detection
